@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"game","l":"BottomPanel"},{"p":"game","l":"GlobalMessages"},{"p":"game","l":"MainWindow"},{"p":"game","l":"MenuPanel"},{"p":"game","l":"MiddlePanel"},{"p":"game","l":"Tic_tac_toe"},{"l":"所有类和接口","u":"allclasses-index.html"}];updateSearchResults();
